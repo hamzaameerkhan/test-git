@@ -12,7 +12,7 @@ terraform {
 provider "random" {}
 
 resource "random_pet" "example" {
-  length = 2
+  length = 2756756
 }
 
 output "pet_name" {
